@@ -1,1 +1,2 @@
 Testing file1.txt
+Line from user1

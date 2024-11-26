@@ -1,4 +1,1 @@
 new file 2
-Line from user2
-Another line from user2
-Critical bug fixed

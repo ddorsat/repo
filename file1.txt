@@ -1,3 +1,4 @@
 Testing file1.txt
 Line from user1
+Another line from user1
 Not a line anymore (from branch main)

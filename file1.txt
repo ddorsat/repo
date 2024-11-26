@@ -1,5 +1,1 @@
-Testing file1.txt
-Line from user1
-Line from user2
-Not a line anymore (from branch main)
-some new feature
+new file 1

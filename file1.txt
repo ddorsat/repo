@@ -1,4 +1,1 @@
 new file 1
-Line from user1
-Line from user1 - Lesson from rebase
-new file 1
